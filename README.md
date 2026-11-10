@@ -33,7 +33,6 @@ The seven class labels are inferred from the directory names and sorted alphabet
 
 `angry`, `disgust`, `fear`, `happy`, `neutral`, `sad`, `surprise`
 
-> Dataset note: The counts above are the counts printed by the notebook at runtime. They do not match the “7,575” figure in the Kaggle dataset title. Verify the downloaded archive and its license/usage conditions before redistributing the data.
 
 ## Model Architecture
 
